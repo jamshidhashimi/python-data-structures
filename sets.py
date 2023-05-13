@@ -1,3 +1,6 @@
+# Set is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
+# *Set items are unchangeable, but you can remove and/or add items whenever you like.
+
 fruits = {'apple', 'banana', 'orange'}
 print(fruits)
 # {'orange', 'apple', 'banana'}

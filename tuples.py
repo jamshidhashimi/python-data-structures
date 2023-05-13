@@ -1,3 +1,5 @@
+# Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
+
 point = (3, 4)
 print(point)
 # (3, 4)
